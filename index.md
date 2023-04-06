@@ -1,18 +1,26 @@
 ## Welcome to Jason's Page.
 
-### Hello! This is Jason Bui.
-
 [About me](#welcome-to-jasons-page)
 
 [Academic Process](#academic-process)
 
 [Experiences](#experiences)
 
- I'm a student studying Computer Science at the University of California, San Diego (UCSD). 
+### Hello! This is Jason Bui.
 
-[image]
+**I'm a student studying Computer Science at the University of California, San Diego (UCSD).**
+
+<img src="IMG-3498.jpg"  width="450" height="600">
 
 *I'm passionate about technology and programming, and I'm excited to be pursuing a career in the field.I'm looking forward to continuing to grow and develop my skills to make a positive impact in the tech industry.*
+
+```java
+try {
+     tellJoke();
+} catch(NotFunnyException e) {
+     logger.error("You are not funny", e);
+}
+```
 
 ### Academic Process
 
@@ -42,6 +50,6 @@ I also learned about:
 
 There are some projects I've done so far:
 - Github in [CSE 15L](https://jasonb1910.github.io/cse-15l-lab-reports/)
-- Block-based coding in [EDS 124BR](https://jasonb1910.github.io/EDS124BR/)
+- Block-based coding in [EDS 124BR](EDS124BR.md)
   
 
