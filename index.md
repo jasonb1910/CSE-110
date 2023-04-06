@@ -8,7 +8,9 @@
 
 ### Hello! This is Jason Bui.
 
-**I'm a student studying Computer Science at the University of California, San Diego (UCSD).**
+***I'm a student studying Computer Science at the University of California, San Diego (UCSD).***
+
+***Contact email: j8bui@ucsd.edu***
 
 <img src="IMG-3498.jpg"  width="450" height="600">
 
