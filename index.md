@@ -6,7 +6,7 @@
 
 [Experiences](#experiences)
 
-### [Hello...This is Jason!](<img src="IMG-3498.jpg"  width="450" height="600">)
+### Hello...This is [Jason!](<img src="IMG-3498.jpg"  width="450" height="600">)
 
 ***I'm a student studying Computer Science at the University of California, San Diego (UCSD).***
 
