@@ -16,10 +16,10 @@
 
 *I'm passionate about technology and programming, and I'm excited to be pursuing a career in the field.I'm looking forward to continuing to grow and develop my skills to make a positive impact in the tech industry.*
 
-:heart_eyes:**Enjoying things:**:heart_eyes:
-     - Riding motorcycle :smirk:
-     - Hiking :smirk:
-     - Building PCs :smirk:
+**Enjoying things** 🥰
+     ✔️ Riding motorcycle 
+     ✔️ Hiking 
+     ✔️ Building PCs 
      
 ```java
 try {
