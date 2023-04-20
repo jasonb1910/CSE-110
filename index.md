@@ -6,13 +6,13 @@
 
 [Experiences](#experiences)
 
-### Hello! This is Jason Bui.
+### [Hello...This is Jason!](<img src="IMG-3498.jpg"  width="450" height="600">)
 
 ***I'm a student studying Computer Science at the University of California, San Diego (UCSD).***
 
-***Contact email: j8bui@ucsd.edu***
+***Contact email***: *j8bui@ucsd.edu*
 
-<img src="IMG-3498.jpg"  width="450" height="600">
+
 
 *I'm passionate about technology and programming, and I'm excited to be pursuing a career in the field.I'm looking forward to continuing to grow and develop my skills to make a positive impact in the tech industry.*
 
