@@ -6,7 +6,7 @@
 
 [Experiences](#experiences)
 
-### Hello...This is ![Jason!](IMG-3498.jpg) 
+### Hello...This is [Jason!](IMG-3498.jpg) 
 
 ***I'm a student studying Computer Science at the University of California, San Diego (UCSD).***
 
